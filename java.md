@@ -2,27 +2,27 @@
 
 ## 1.ideal的使用
 
-![image-20230512202424735](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230512202424735.png)
+![image-20230512202424735](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230512202424735.png)
 
 path环境变量配，可以用于命令行窗口打开应用程序
 
-![image-20230512204201290](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230512204201290.png)
+![image-20230512204201290](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230512204201290.png)
 
-![image-20230512204729125](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230512204729125.png)
+![image-20230512204729125](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230512204729125.png)
 
 ### 快捷键
 
 选中需要的代码，ctrl+alt+t可以自动把代码放入一个死循环的while语句
 
-![image-20230512205500647](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230512205500647.png)
+![image-20230512205500647](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230512205500647.png)
 
-![image-20230608110937574](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230608110937574.png)快捷遍历
-
-
+![image-20230608110937574](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230608110937574.png)快捷遍历
 
 
 
-![image-20230512210206189](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230512210206189.png)
+
+
+![image-20230512210206189](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230512210206189.png)
 
 alt+回车在对应的方法名可以自动创建一个方法
 
@@ -37,7 +37,7 @@ files->open	关闭工程可以直接关闭ide或者直接在file里面<u>close</
 
 **debug**
 
-![image-20230515165738430](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230515165738430.png)
+![image-20230515165738430](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230515165738430.png)
 
 
 
@@ -47,11 +47,11 @@ files->open	关闭工程可以直接关闭ide或者直接在file里面<u>close</
 
 与 c语言一样
 
-![image-20230513195630966](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513195630966.png)
+![image-20230513195630966](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513195630966.png)
 
 *注释之所以不会影响程序的执行是因为最后编译的class文件里面不会包含注释*
 
-![image-20230513195902382](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513195902382.png)
+![image-20230513195902382](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513195902382.png)
 
 ### 2.字面量（书写格式）
 
@@ -103,11 +103,11 @@ A=65, a=97, 0 =48
 
 除二取余法
 
-![image-20230513202629578](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513202629578.png)
+![image-20230513202629578](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513202629578.png)
 
 ##### 八进制，十六进制
 
-![image-20230513203143375](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513203143375.png)
+![image-20230513203143375](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513203143375.png)
 
 ```
 System.out.println("money");
@@ -119,7 +119,7 @@ System.out.println("money");
         
 ```
 
-运行结果![image-20230513203502940](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513203502940.png)
+运行结果![image-20230513203502940](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513203502940.png)
 
 ##### 数据大小
 
@@ -127,7 +127,7 @@ System.out.println("money");
 
 ### 6.数据类型
 
-![image-20230513204057800](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513204057800.png)
+![image-20230513204057800](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513204057800.png)
 
 #### 布尔值
 
@@ -184,7 +184,7 @@ String ch="西门吹雪";
 
 运行结果
 
-![image-20231007190152867](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231007190152867.png)
+![image-20231007190152867](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231007190152867.png)
 
 
 
@@ -357,7 +357,7 @@ char[] passwd = cons.readPassword("Password: ");
 
 小范围变量可以指及赋值给大范围变量
 
-![image-20230514025330881](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514025330881.png)
+![image-20230514025330881](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514025330881.png)
 
 
 
@@ -367,9 +367,9 @@ char[] passwd = cons.readPassword("Password: ");
 
 #### 强制转换
 
-![image-20230514030712671](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514030712671.png)
+![image-20230514030712671](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514030712671.png)
 
-强制转换的底层原理，可能存在精度丢失![image-20230514030846260](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514030846260.png)
+强制转换的底层原理，可能存在精度丢失![image-20230514030846260](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514030846260.png)
 
 ### 运算符（主要列出与c语言不同的地方）
 
@@ -379,7 +379,7 @@ https://www.runoob.com/java/java-operators.html
 
 ***在做字符算运算的时候加号的作用是将两个字符串连接在一起*与c语言有很大不同**
 
-![image-20230514031828597](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514031828597.png)
+![image-20230514031828597](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514031828597.png)
 
 ```Java
 System.out.println("abc"+"c");
@@ -390,7 +390,7 @@ System.out.println("abc"+"c");
         //能算则算，不能算连接
 ```
 
-![image-20230514032220018](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514032220018.png)
+![image-20230514032220018](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514032220018.png)
 
 运行结果
 
@@ -398,7 +398,7 @@ System.out.println("abc"+"c");
 
 与c语言不同的是这边关系运算符的返回值是布尔值，true或者false,
 
-![image-20230514110455849](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514110455849.png)
+![image-20230514110455849](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514110455849.png)
 
 运算结果
 
@@ -409,7 +409,7 @@ false
 
 #### 逻辑运算符
 
-![image-20230514111150261](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514111150261.png)
+![image-20230514111150261](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514111150261.png)
 
 单目与双目逻辑符的区别，
 
@@ -424,13 +424,13 @@ System.out.println(b); //会执行++b这个操作
 
 输出结果
 
-![image-20230514111858864](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514111858864.png)
+![image-20230514111858864](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514111858864.png)
 
 **按位或，按位与，按位异或，按位非这些运算符用的不多，与c语言类似，自己看就好**
 
 #### 三元运算符
 
-![image-20230514112010242](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514112010242.png)
+![image-20230514112010242](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514112010242.png)
 
 
 
@@ -440,7 +440,7 @@ b=10;
 System.out.println(a>b?a:b );
 ```
 
-![image-20230514112436116](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514112436116.png)
+![image-20230514112436116](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514112436116.png)
 
 了解就好，之后尽量用if语句
 
@@ -454,7 +454,7 @@ System.out.println(a>b?a:b );
 
 
 
-![image-20230514183531769](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514183531769.png)
+![image-20230514183531769](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514183531769.png)
 
 
 
@@ -462,17 +462,17 @@ System.out.println(a>b?a:b );
 
 #### 补充
 
-![image-20231010114025498](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231010114025498.png)
+![image-20231010114025498](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231010114025498.png)
 
-![image-20231010114346060](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231010114346060.png)
+![image-20231010114346060](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231010114346060.png)
 
 这个太细节了
 
 
 
-![image-20231010114017870](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231010114017870.png)
+![image-20231010114017870](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231010114017870.png)
 
-![image-20231010113903183](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231010113903183.png)
+![image-20231010113903183](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231010113903183.png)
 
 
 
@@ -554,13 +554,13 @@ if语句的布尔表达式同样是true和false。
 
 Random 名字 = new Random()
 
-![image-20230517104028826](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517104028826.png)
+![image-20230517104028826](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517104028826.png)
 
 **需要注意的是随机数是0-n-1**
 
 
 
-![*image-20230517104433436*](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517104433436.png)
+![*image-20230517104433436*](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517104433436.png)
 
 ***解决从n开始的随机数问题***
 
@@ -568,7 +568,7 @@ Random 名字 = new Random()
 >
 > *猜数字游戏*
 >
-> ## ![image-20230517104806894](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517104806894.png)
+> ## ![image-20230517104806894](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517104806894.png)
 >
 > 
 >
@@ -658,7 +658,7 @@ System.out.println(arr);
 
 > 在Java中，数组类型的声明中，中括号可以放在类型名称后面或变量名称后面，这两种语法是等效的。**在Java中，对于数组类型的变量，我们通常将中括号放在类型名称后面，而不是变量名称后面**。
 >
-> ![image-20230514205311715](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514205311715.png)命名格式，其中new指的是创建一个新的东西 **一般用的是简化形式**
+> ![image-20230514205311715](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514205311715.png)命名格式，其中new指的是创建一个新的东西 **一般用的是简化形式**
 >
 > *还有一点与c语言不同的是Java中允许在数组的初始化时，用变量来指定数组个数*
 >
@@ -673,11 +673,11 @@ System.out.println(arr);
 >
 > **访问数组长度**
 >
-> ![image-20230514210816252](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514210816252.png)
+> ![image-20230514210816252](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514210816252.png)
 >
 > *同样跟c语言不同，不用借助库函数*
 
-> ![](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230514211022504.png)
+> ![](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230514211022504.png)
 
 
 
@@ -853,7 +853,7 @@ public class TestArray {
 
 类似函数
 
-![image-20230516141921312](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516141921312.png)
+![image-20230516141921312](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516141921312.png)
 
 
 
@@ -861,7 +861,7 @@ public class TestArray {
 
 参考一下就好，感觉和函数差不多
 
-![image-20230516143124805](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516143124805.png)
+![image-20230516143124805](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516143124805.png)
 
 
 
@@ -871,9 +871,9 @@ public class TestArray {
 
 方法与方法之间可以互相调用
 
-![image-20230516143821884](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516143821884.png)
+![image-20230516143821884](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516143821884.png)
 
-![image-20230516144241399](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516144241399.png)
+![image-20230516144241399](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516144241399.png)
 
 需要调用的时候再入栈，栈是先进后出
 
@@ -883,7 +883,7 @@ public class TestArray {
 
 同样也是注意实参和形参。
 
-![image-20230516144611365](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516144611365.png)
+![image-20230516144611365](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516144611365.png)
 
 
 
@@ -891,7 +891,7 @@ public class TestArray {
 
 传递引用型变量的地址，因为引用的是地址，所以形参的改变也会是原参数的值改变，跟c语言的数组传递原理一样，数组名的本质就是地址
 
-![image-20230516145155149](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516145155149.png)
+![image-20230516145155149](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516145155149.png)
 
 **数组的元素存储再堆区**
 
@@ -901,7 +901,7 @@ public class TestArray {
 
 **方法重载（overlode)的形式**
 
-![image-20230516151102593](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516151102593.png)
+![image-20230516151102593](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516151102593.png)
 
 ![image-20230516151154581](D:\markdown\image-20230516151154581.png)
 
@@ -909,7 +909,7 @@ public class TestArray {
 
 ### return关键字
 
-![image-20230516152138585](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230516152138585.png)
+![image-20230516152138585](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516152138585.png)
 
 可以用于结束方法，上面的样例代码中分母的传入值如果等于零，就用return结束当前方法
 
@@ -919,21 +919,21 @@ public class TestArray {
 
 先设计类，再设计对象
 
-![image-20230517110018870](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517110018870.png)
+![image-20230517110018870](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517110018870.png)
 
 *如何设计类*
 
-![image-20230517110233920](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517110233920.png)
+![image-20230517110233920](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517110233920.png)
 
-![image-20230517110303056](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517110303056.png)
+![image-20230517110303056](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517110303056.png)
 
-![image-20230517111003894](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517111003894.png)
+![image-20230517111003894](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517111003894.png)
 
 
 
 **补充事项**
 
-![image-20230517111333673](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517111333673.png)
+![image-20230517111333673](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517111333673.png)
 
 #### 一些没听懂的个问题
 
@@ -963,7 +963,7 @@ public class TestArray {
 
 #### 多个对象的内存图 
 
-![image-20230517113018211](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517113018211.png)
+![image-20230517113018211](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517113018211.png)
 
 1.先把检索到的类放进方法去
 
@@ -973,11 +973,11 @@ public class TestArray {
 
 4.对象的内存地址放入堆区
 
-![image-20230517113509658](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517113509658.png)
+![image-20230517113509658](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517113509658.png)
 
 总结
 
-![image-20230517113647488](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230517113647488.png)
+![image-20230517113647488](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230517113647488.png)
 
 
 
@@ -1001,13 +1001,13 @@ public class TestArray {
 
 **1.案例（购物车）**
 
-![image-20230608105516671](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230608105516671.png)
+![image-20230608105516671](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230608105516671.png)
 
-![image-20230608105649691](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230608105649691.png)
+![image-20230608105649691](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230608105649691.png)
 
 
 
-![image-20230608112226691](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230608112226691.png)
+![image-20230608112226691](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230608112226691.png)
 
  
 
@@ -1220,7 +1220,7 @@ Number这个类相当于把java中的所有内置数据类型都转换 成了**�
 
 **Number属于lang包**，idea可以自动导入
 
-![Java Number类](https://www.runoob.com/wp-content/uploads/2013/12/OOP_WrapperClass.png)
+![Java Number类](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/OOP_WrapperClass.png)
 
 Java 的 Math 包含了用于执行基本数学运算的属性和方法，如初等指数、对数、平方根和三角函数。
 
@@ -1524,7 +1524,7 @@ int round(float f)
 
 为什么我想使用Integer类创建一个Integer对象的时候不是用正常的用new来创建实例而是直接赋值
 
-![image-20231011160348572](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231011160348572.png)
+![image-20231011160348572](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231011160348572.png)
 
 直接这样会报错
 
@@ -1564,7 +1564,7 @@ valueOf()是Number的一个静态方法，只能通过类来访问，不能通�
 //valueOf方法的具体实现
 ```
 
-![image-20231011161203673](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231011161203673.png)
+![image-20231011161203673](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231011161203673.png)
 
 ## 8.Character类
 
@@ -1623,7 +1623,7 @@ public class StringDemo {
 
 ### 补充
 
-![image-20231016170556205](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231016170556205.png)
+![image-20231016170556205](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231016170556205.png)
 
 ## 10.StringBuffer & StringBuilder
 
@@ -1633,7 +1633,7 @@ public class StringDemo {
 
 由于字符串不可修改，使用StringBuffer和StringBuilider的对象可以修改
 
-![img](https://www.runoob.com/wp-content/uploads/2013/12/java-string-20201208.png)
+![img](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/java-string-20201208.png)
 
 在使用 StringBuffer 类时，每次都会对 StringBuffer 对象本身进行操作，而不是生成新的对象，所以如果需要对字符串进行修改推荐使用 StringBuffer。
 
@@ -1661,7 +1661,7 @@ public class RunoobTest{
 
 
 
-![img](https://www.runoob.com/wp-content/uploads/2013/12/2021-03-01-java-stringbuffer.svg)
+![img](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/2021-03-01-java-stringbuffer.svg)
 
 二者的使用场景好像只是对线程安全度的考量StringBuffer对线程的安全度更高
 
@@ -1716,7 +1716,7 @@ StringBuilder 速度快
 
 ##  11.Stream,file，io
 
-![img](https://www.runoob.com/wp-content/uploads/2013/12/iostream2xx.png)
+![img](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/iostream2xx.png)
 
 #### FileInputStream
 

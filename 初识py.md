@@ -1,6 +1,6 @@
 # 基本知识
 
-![image-20230723140405767](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230723140405767.png)
+![image-20230723140405767](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230723140405767.png)
 
 ## input
 
@@ -29,9 +29,9 @@ print(global_var)  # 输出修改后的全局变量值
 
 在上面的例子中，我们首先定义了一个全局变量`global_var`，然后在`my_function`函数中使用`global`关键字将其声明为全局变量。在函数内部，我们可以对该全局变量进行修改。最后，我们打印出修改后的全局变量值。
 
-![image-20230730200542923](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730200542923.png)
+![image-20230730200542923](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730200542923.png)
 
-![image-20230730200701086](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730200701086.png)
+![image-20230730200701086](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730200701086.png)
 
 对布尔值进行整形强制转换，非零的值都会被转换为1
 
@@ -41,15 +41,15 @@ print(global_var)  # 输出修改后的全局变量值
 
 浮点型保留的位数就是运算过程中最大的小数位置
 
-![image-20230730210109375](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730210109375.png)
+![image-20230730210109375](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730210109375.png)
 
 
 
-![image-20230730202319857](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730202319857.png)
+![image-20230730202319857](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730202319857.png)
 
 比较有好的是，python中提供了大于等于，比c语言可人性多了
 
-![image-20230730202434594](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730202434594.png)
+![image-20230730202434594](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730202434594.png)
 
 ### ord与chr
 
@@ -62,21 +62,21 @@ print(ord(a))
 print(ord('A'))
 ```
 
-![image-20230730202518450](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730202518450.png)
+![image-20230730202518450](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730202518450.png)
 
 还有一个按位运算符，感觉了解一下就好了
 
-![image-20230730203135243](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730203135243.png)
+![image-20230730203135243](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730203135243.png)
 
 ### 成员运算符
 
 `这个指定序列可以是字符串，列表或者元组，用来查找很方便`
 
-![image-20230730203350358](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730203350358.png)
+![image-20230730203350358](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730203350358.png)
 
 
 
-![image-20230730203211392](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730203211392.png)
+![image-20230730203211392](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730203211392.png)
 
 ### 身份运算符
 
@@ -84,13 +84,13 @@ print(ord('A'))
 
 `这个是判断内存地址是否相同，不知道有什么用`
 
-![image-20230730203421763](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730203421763.png)
+![image-20230730203421763](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730203421763.png)
 
-![image-20230730203428187](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730203428187.png)
+![image-20230730203428187](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730203428187.png)
 
 ### 运算符的优先级
 
-![image-20230730203527911](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730203527911.png)
+![image-20230730203527911](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730203527911.png)
 
 
 
@@ -106,7 +106,7 @@ or的优先级会更高，跟c语言||一样
 
 in
 
-![image-20230728203306441](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230728203306441.png)
+![image-20230728203306441](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230728203306441.png)
 
 不能用来测试数字类型
 
@@ -114,7 +114,7 @@ in
 
 ## *号收集多余的值，并且可以放在任意顺序
 
-![image-20230816170729505](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816170729505.png)
+![image-20230816170729505](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816170729505.png)
 
 *需要值得一提的是，带‘*’的变量返回的是一个列表*
 
@@ -225,20 +225,20 @@ print(f'''{a*b:.3f}''')
 
 这里的print会自动换行
 
-![image-20230729120557024](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729120557024.png)
+![image-20230729120557024](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729120557024.png)
 
-![image-20230729120604616](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729120604616.png)
+![image-20230729120604616](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729120604616.png)
 
 ### 如果想直接打印换行
 
-![image-20230729120803241](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729120803241.png)
+![image-20230729120803241](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729120803241.png)
 
 
 
 ## range
 
 参数说明
-![image-20230729120832104](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729120832104.png)
+![image-20230729120832104](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729120832104.png)
 
 ```python
 # 生成从0到4之前的整数序列：[0, 1, 2, 3]
@@ -252,11 +252,11 @@ sequence3 = range(1, 10, 2)
 
 ```
 
-![image-20230729154851744](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729154851744.png)
+![image-20230729154851744](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729154851744.png)
 
 ## 练习
 
-![image-20230729164235689](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729164235689.png)
+![image-20230729164235689](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729164235689.png)
 
 生成一个随机的车牌号
 
@@ -268,21 +268,21 @@ python第一枪
 
 #### join
 
-![image-20230729164512123](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729164512123.png)
+![image-20230729164512123](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729164512123.png)
 
 #### random.choice
 
-![image-20230729164545998](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729164545998.png)
+![image-20230729164545998](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729164545998.png)
 
 #### random.sample
 
-![image-20230729164617252](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230729164617252.png)
+![image-20230729164617252](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230729164617252.png)
 
 **需要注意的是，他的返回值是一个列表**
 
 # 数据结构
 
-![image-20230731203144811](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731203144811.png)
+![image-20230731203144811](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731203144811.png)
 
 - 序列
 
@@ -299,7 +299,7 @@ python第一枪
 
     
 
-![image-20230731203511022](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731203511022.png)
+![image-20230731203511022](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731203511022.png)
 
 ### 可变的数据类型
 
@@ -320,13 +320,13 @@ python中的赋值是指向性赋值（我目前是这么理解），重新给�
 
 #### 元组的创建
 
-- 使用圆括号创建![image-20230731211128968](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731211128968.png)
+- 使用圆括号创建![image-20230731211128968](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731211128968.png)
 
 **这一点中我觉得很牛逼的是不加圆括号也可以创建元组**
 
 - 使用tuple函数创建
 
-  ![image-20230731211506066](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731211506066.png)
+  ![image-20230731211506066](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731211506066.png)
 
   
 
@@ -336,13 +336,13 @@ python中的赋值是指向性赋值（我目前是这么理解），重新给�
 
 - 元组的切片提取
 
-- 元组解包![image-20230731211753827](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731211753827.png)
+- 元组解包![image-20230731211753827](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731211753827.png)
 
   其中mytuple=('China','American','England')
 
 
 
-![image-20230731212230402](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731212230402.png)
+![image-20230731212230402](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731212230402.png)
 
 **这个方法与list和str相似**
 
@@ -402,7 +402,7 @@ print(fruits)  # Output: ['apple', 'orange', 'banana mango']
 
 ### 拼接
 
-![image-20230730201724246](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730201724246.png)
+![image-20230730201724246](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730201724246.png)
 
 
 
@@ -412,17 +412,17 @@ print(fruits)  # Output: ['apple', 'orange', 'banana mango']
 
 **字符串不可修改！**
 
-![image-20230730201121096](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730201121096.png)
+![image-20230730201121096](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730201121096.png)
 
-![image-20230730201238508](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730201238508.png)**尽量用双引号来表达字符串**
+![image-20230730201238508](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730201238508.png)**尽量用双引号来表达字符串**
 
-![image-20230730201514045](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730201514045.png)
+![image-20230730201514045](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730201514045.png)
 
 
 
 **字符串的切片顾头不顾尾**
 
- ![image-20230730104304818](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730104304818.png)
+ ![image-20230730104304818](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730104304818.png)
 
 很像char数组，但是不能单独该一个元素，只能重新定义，修改之后原来的状态会被视为垃圾，被回收，跟java的垃圾处理有点像
 
@@ -430,17 +430,17 @@ print(fruits)  # Output: ['apple', 'orange', 'banana mango']
 
 center
 
-![image-20230730104610991](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730104610991.png)
+![image-20230730104610991](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730104610991.png)
 
 ![image-20230730104616150](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730104616150.png)
 
 ### count
 
-![image-20230730104711902](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730104711902.png)
+![image-20230730104711902](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730104711902.png)
 
 查找字符串中的某个元素个数，可以设置起始位置和结尾位置
 
-![image-20230730110401417](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730110401417.png)
+![image-20230730110401417](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730110401417.png)
 
 
 
@@ -481,7 +481,7 @@ else:
 
 在大多数情况下，这两种方法的差别并不会对程序性能产生显著影响。您可以根据您的实际需求选择适合的方法。如果您只关心是否存在，使用 `in` 关键字会更加直观和简洁。如果您需要知道子字符串的索引位置，使用 `find()` 方法会更合适。
 
-![image-20230730104930971](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730104930971.png)
+![image-20230730104930971](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730104930971.png)
 
 如果找到了，就返回对应字符的索引，**返回的索引是字子串第一个字符的索引**
 
@@ -491,9 +491,9 @@ else:
 
 ### join
 
-![image-20230730105118935](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730105118935.png)
+![image-20230730105118935](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730105118935.png)
 
-![image-20230730105159536](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730105159536.png)
+![image-20230730105159536](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730105159536.png)
 
 ###replace
 
@@ -501,11 +501,11 @@ else:
 
 注意这个
 
-![image-20230730105417317](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730105417317.png)
+![image-20230730105417317](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730105417317.png)
 
 *由于无法对字符串直接修改，所以需要重新定义*，如果有多个l，可以在后面指定要替换的个数，
 
-### split![image-20230730105618491](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730105618491.png)
+### split![image-20230730105618491](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730105618491.png)
 
 
 
@@ -515,11 +515,11 @@ else:
 
 ### 列表的创建
 
-![image-20230731204218262](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731204218262.png)
+![image-20230731204218262](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731204218262.png)
 
 
 
-![image-20230731204412190](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731204412190.png)
+![image-20230731204412190](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731204412190.png)
 
 列表的索引可以从最右边开始索引，最右边的索引为-1
 
@@ -527,9 +527,9 @@ else:
 
 
 
-![image-20230731204926216](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731204926216.png)
+![image-20230731204926216](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731204926216.png)
 
-![image-20230731205022245](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731205022245.png)
+![image-20230731205022245](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731205022245.png)
 
 
 
@@ -569,15 +569,15 @@ list.pop(index)
 
 返回的是对应元素的索引
 
-![image-20230730111207933](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730111207933.png)
+![image-20230730111207933](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730111207933.png)
 
 ### 切片（与字符串类似）
 
-![image-20230730111302543](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730111302543.png)
+![image-20230730111302543](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730111302543.png)
 
 #### **切片还可以倒着切，可以应用于不知道正着数的Index**
 
-![image-20230730112023834](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730112023834.png)
+![image-20230730112023834](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730112023834.png)
 
 -5：-1就是倒数第五个倒倒数第一个
 
@@ -587,7 +587,7 @@ list.pop(index)
 
 step是最后一个参数
 
-![image-20230730112306281](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730112306281.png)
+![image-20230730112306281](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730112306281.png)
 
 
 
@@ -640,7 +640,7 @@ print(words)  # Output: ['kiwi', 'apple', 'banana', 'orange']
 3. 对于复杂对象的排序，可以使用 `key` 参数指定排序依据，例如按照对象的某个属性进行排序。
 4. 如果只需要排序的结果而不想修改原列表，可以使用 `sorted()` 函数，它会返回一个新的已排序的列表。
 
-![image-20230730112653169](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730112653169.png)
+![image-20230730112653169](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730112653169.png)
 
 ##### 如果元素是列表
 
@@ -665,21 +665,21 @@ print(nested_list)
 
 如果列表是纯数字
 
-![image-20230730112744952](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730112744952.png)
+![image-20230730112744952](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730112744952.png)
 
 #### reverse
 
 反转列表
 
-![image-20230730112853571](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730112853571.png)
+![image-20230730112853571](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730112853571.png)
 
 ### 循环列表
 
-![image-20230730112911032](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730112911032.png)
+![image-20230730112911032](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730112911032.png)
 
 ### insert（index，元素）
 
-![image-20230731205412688](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731205412688.png)
+![image-20230731205412688](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731205412688.png)
 
 ### 查询列表文件位置
 
@@ -687,7 +687,7 @@ print(nested_list)
 
 其他常用方法
 
-![image-20230731210048493](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230731210048493.png)
+![image-20230731210048493](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230731210048493.png)
 
 ### count
 
@@ -701,13 +701,13 @@ print(nested_list)
 
 字典的索引直接搜key,value可以存放可以修改的数值，key不可以存放可以修改的数值，比如列表
 
-![image-20230730143620625](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230730143620625.png)
+![image-20230730143620625](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230730143620625.png)
 
-![image-20230801193023531](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801193023531.png)同样可以用in判断元素是否在dict中
+![image-20230801193023531](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801193023531.png)同样可以用in判断元素是否在dict中
 
 ### 元素提取
 
-![image-20230801193117358](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801193117358.png)
+![image-20230801193117358](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801193117358.png)
 
 ### 字典中常用的函数和方法
 
@@ -745,7 +745,7 @@ print(value_c)   # 输出: 3 (新键，使用默认值)
 
 ####增加
 
-#### ![image-20230801193441081](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801193441081.png)
+#### ![image-20230801193441081](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801193441081.png)
 
 直接添加，**键访问**，比较适合单个元素的添加
 
@@ -761,7 +761,7 @@ print(value_c)   # 输出: 3 (新键，使用默认值)
 - clear的全部删除
 - del的通过key元素
 
-![image-20230801194034653](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801194034653.png)
+![image-20230801194034653](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801194034653.png)
 
 #### 修改
 
@@ -771,17 +771,17 @@ print(value_c)   # 输出: 3 (新键，使用默认值)
 
 #### 查询
 
-![image-20230801194220760](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801194220760.png)
+![image-20230801194220760](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801194220760.png)
 
 三种方法，很重要
 
 **使用示例**
 
-![image-20230801194249009](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801194249009.png)
+![image-20230801194249009](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801194249009.png)
 
 ## 集合
 
-![image-20230801195332895](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801195332895.png)
+![image-20230801195332895](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801195332895.png)
 
 ### 创建集合
 
@@ -806,7 +806,7 @@ set()
 
 #### 不可变集合
 
-![image-20230801195901351](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801195901351.png)
+![image-20230801195901351](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801195901351.png)
 
 ### 集合的运算
 
@@ -829,29 +829,29 @@ set()
 
 #### 求交集
 
-![image-20230801200136214](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801200136214.png)
+![image-20230801200136214](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801200136214.png)
 
 #### 求差集
 
-![image-20230801200144237](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801200144237.png)
+![image-20230801200144237](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801200144237.png)
 
 #### 异或集
 
-![image-20230801200211961](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801200211961.png)
+![image-20230801200211961](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801200211961.png)
 
 #### 集合之间的关系判断（了解，感觉用的不多）
 
-![image-20230801200317554](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801200317554.png)
+![image-20230801200317554](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801200317554.png)
 
-![image-20230801200322513](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801200322513.png)
+![image-20230801200322513](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801200322513.png)
 
 ### 集合中常用的函数和方法
 
-![image-20230801201242842](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801201242842.png)
+![image-20230801201242842](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801201242842.png)
 
 实例
 
-![image-20230801201350070](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801201350070.png)
+![image-20230801201350070](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801201350070.png)
 
 # 控制语句
 
@@ -871,7 +871,7 @@ set()
 
 可以在此基础上添加多重for,和if
 
-![image-20230816184123490](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816184123490.png)
+![image-20230816184123490](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816184123490.png)
 
 
 
@@ -881,7 +881,7 @@ set()
 
 **可以运用到zip函数**
 
-![image-20230816173013203](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816173013203.png)
+![image-20230816173013203](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816173013203.png)
 
 
 
@@ -889,7 +889,7 @@ set()
 
 **c语言中不能使用这种比较**
 
-![image-20230816172322559](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816172322559.png)
+![image-20230816172322559](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816172322559.png)
 
 
 
@@ -897,7 +897,7 @@ set()
 
 ## is
 
-<img src="C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816172003054.png" alt="image-20230816172003054" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816172003054.png" alt="image-20230816172003054" style="zoom:100%;" />
 
 
 
@@ -905,25 +905,25 @@ set()
 
 
 
-这些都是假的值，其他都是真![image-20230816171422109](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816171422109.png)
+这些都是假的值，其他都是真![image-20230816171422109](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816171422109.png)
 
 
 
-![image-20230801203559434](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801203559434.png)
+![image-20230801203559434](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801203559434.png)
 
 多路分支
 
-![image-20230801203616513](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801203616513.png)
+![image-20230801203616513](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801203616513.png)
 
 
 
 ## for
 
-![image-20230801204104181](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801204104181.png)
+![image-20230801204104181](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801204104181.png)
 
 与其他语言不同的是这个pass
 
-![image-20230801204152066](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801204152066.png)
+![image-20230801204152066](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801204152066.png)
 
 不做任何事情
 
@@ -931,21 +931,21 @@ set()
 
 只要是可迭代的数据类型都可以循环，无论有没有下标
 
-![image-20230801204450479](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801204450479.png)
+![image-20230801204450479](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801204450479.png)
 
 一次迭代多个变量
 
-![image-20230801204553014](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801204553014.png)
+![image-20230801204553014](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801204553014.png)
 
 ### 创建列表解析
 
 *map函数可以详见`一些实用的内置函数`*
 
-![image-20230801204833030](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801204833030.png)
+![image-20230801204833030](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801204833030.png)
 
 如代码 4-17 所示，列表解析式完全可以替换 Python 内建的 map 函数以及 lambda 函数，而且效率更高。用列表解析式实现嵌套循环语句的示例如代码 4-18 所示
 
-![image-20230801204947533](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230801204947533.png)
+![image-20230801204947533](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230801204947533.png)
 
 **感觉有点酷的样子**
 
@@ -959,13 +959,13 @@ set()
 
 - python的自定义函数可以不需声明数据类型
 
-  ![image-20230802145210560](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230802145210560.png)
+  ![image-20230802145210560](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230802145210560.png)
 
   
 
 ## 函数返回值
 
-![image-20230804112622542](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804112622542.png)
+![image-20230804112622542](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804112622542.png)
 
 
 
@@ -987,19 +987,19 @@ set()
 
   **不确定的可变参数需要放在最后面**
 
-- ![image-20230802154851245](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230802154851245.png)
+- ![image-20230802154851245](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230802154851245.png)
 
   这个有点牛，相当于自动重载了函数
 
   
   
-  ![image-20230804112749148](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804112749148.png)
+  ![image-20230804112749148](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804112749148.png)
 
 ## 匿名函数
 
 ### lambda
 
-![image-20230804113330396](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804113330396.png)
+![image-20230804113330396](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804113330396.png)
 
 
 
@@ -1157,7 +1157,7 @@ print(doubled_numbers)  # 输出: [2, 4, 6, 8, 10]
 
 
 
-![image-20230804113737648](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804113737648.png)
+![image-20230804113737648](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804113737648.png)
 
 ### eval()
 
@@ -1169,19 +1169,19 @@ print(doubled_numbers)  # 输出: [2, 4, 6, 8, 10]
 
 **同样这样的方法也有风险**就在下面的那个可能创造回污染变量空间的变量
 
-![image-20230811164330812](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230811164330812.png)
+![image-20230811164330812](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230811164330812.png)
 
-![image-20230811164335582](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230811164335582.png)
+![image-20230811164335582](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230811164335582.png)
 
 **还有一个exec*
 
 **与eval不同的是，这个exec不会返回值，它本身那就是一条语句**
 
-![image-20230816190638695](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816190638695.png)
+![image-20230816190638695](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816190638695.png)
 
-![image-20230816190848313](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816190848313.png)
+![image-20230816190848313](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816190848313.png)
 
-![image-20230816190942318](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816190942318.png)**给exec添加这样的参数就可以防止午饭，scope**
+![image-20230816190942318](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816190942318.png)**给exec添加这样的参数就可以防止午饭，scope**
 
 
 
@@ -1189,7 +1189,7 @@ print(doubled_numbers)  # 输出: [2, 4, 6, 8, 10]
 
 ### zip
 
-![image-20230816173052323](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816173052323.png)
+![image-20230816173052323](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816173052323.png)
 
 缝合两个列表运用于并行迭代
 
@@ -1205,11 +1205,11 @@ print(doubled_numbers)  # 输出: [2, 4, 6, 8, 10]
 
 **打开文件**
 
-![image-20230804201405348](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804201405348.png)
+![image-20230804201405348](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804201405348.png)
 
 open的默认mode是''r''
 
-![image-20230804204504747](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804204504747.png)
+![image-20230804204504747](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804204504747.png)
 
 当解析码不一样的时候得指定具体的encoding
 
@@ -1217,9 +1217,9 @@ open的默认mode是''r''
 
 **以二进制打开文件**
 
-![image-20230804204613807](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804204613807.png)
+![image-20230804204613807](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804204613807.png)
 
-![image-20230804204917141](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230804204917141.png)
+![image-20230804204917141](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230804204917141.png)
 
  
 
@@ -1227,7 +1227,7 @@ open的默认mode是''r''
 
 文件的修改，需要拖入内存修改，然后清空源文件，然后再把内容写回硬盘
 
-![image-20230806190439145](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230806190439145.png)
+![image-20230806190439145](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230806190439145.png)
 
 # 常用模块和模块的介绍
 
@@ -1245,9 +1245,9 @@ open的默认mode是''r''
 
 ## 模块的导入
 
-![image-20230818174551983](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818174551983.png)同时导入两个模块，加逗号
+![image-20230818174551983](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818174551983.png)同时导入两个模块，加逗号
 
-![image-20230818174645845](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818174645845.png)
+![image-20230818174645845](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818174645845.png)
 
 引用rename这个方法的时候不需要'.'
 
@@ -1255,9 +1255,9 @@ open的默认mode是''r''
 
 **甚至可以直接具体到直接的方法**
 
-![image-20230818175028448](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818175028448.png)这种导入是导入的方法，但是给他重新命名了
+![image-20230818175028448](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818175028448.png)这种导入是导入的方法，但是给他重新命名了
 
-![image-20230818175124598](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818175124598.png)
+![image-20230818175124598](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818175124598.png)
 
 导入全部的方法（不推荐这种导入方法）
 
@@ -1309,7 +1309,7 @@ open的默认mode是''r''
 
 ## sys
 
-![image-20230818182956551](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818182956551.png)
+![image-20230818182956551](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818182956551.png)
 
 
 
@@ -1402,7 +1402,7 @@ print("Elapsed Time:", elapsed_time, "seconds")
 
 - `time.strftime(format[, t])`：将一个时间结构化对象转换为格式化的字符串。
 
-  ![image-20230818194838803](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818194838803.png)
+  ![image-20230818194838803](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818194838803.png)
 
   可以输出指定的参数
 
@@ -1451,7 +1451,7 @@ print("Done waiting!")
 
 后面的参数符号可以是±，用于代表增加或减少
 
-![image-20230818200547558](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818200547558.png)
+![image-20230818200547558](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818200547558.png)
 
 t1现在的时间
 
@@ -1485,9 +1485,9 @@ print("Today's Date:", today)
 
 ## random
 
-![image-20230818201801321](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818201801321.png)
+![image-20230818201801321](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818201801321.png)
 
-![image-20230818202228075](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230818202228075.png)random.choie的数据源可以结合str的数字或者字母，生成随机验证码
+![image-20230818202228075](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230818202228075.png)random.choie的数据源可以结合str的数字或者字母，生成随机验证码
 
 还有一个比较重要的就是random.shuffle()这个方法，十分的香，随机打乱，数据源必须是**列表**，返回的不是新列表，是在原列表的基础上
 
@@ -1495,21 +1495,21 @@ print("Today's Date:", today)
 
 字典变成字符串--序列化
 
- ![image-20230819175910610](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819175910610.png)
+ ![image-20230819175910610](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819175910610.png)
 
 序列化是把对应的字典转换为序列化文件（十六进制byte模式）
 
-![image-20230819180045807](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819180045807.png)
+![image-20230819180045807](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819180045807.png)
 
 dump是直接序列化+write
 
-![image-20230819180330943](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819180330943.png)
+![image-20230819180330943](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819180330943.png)
 
 ## json(所有语言都通用)
 
 只能dump或者load一次，这是与pickle的主要区别
 
-![image-20230819180857088](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819180857088.png)
+![image-20230819180857088](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819180857088.png)
 
 
 
@@ -1521,7 +1521,7 @@ dump是直接序列化+write
 
 密文无法反推出明文
 
-![image-20230819182918815](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819182918815.png)
+![image-20230819182918815](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819182918815.png)
 
 ```python
 import hashlib
@@ -1543,13 +1543,13 @@ print(m.hexdigest())
 #综合起来，这段代码的作用是计算字符串 "谢隆杰是大帅哥" 的 MD5 哈希值，并以十六进制形式打印出来。MD5 哈希函数将输入数据映射为一个 128 位的哈希值，通常用于数据完整性验证、密码存储等场景。在这个例子中，字符串 "谢隆杰是大帅哥" 被转换为其对应的 MD5 哈希值，并以十六进制字符串的形式输出。
 ```
 
-![image-20230819185605802](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819185605802.png)
+![image-20230819185605802](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819185605802.png)
 
 
 
 ## re正则表达式
 
-![image-20230829170930360](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829170930360.png)
+![image-20230829170930360](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829170930360.png)
 
 找到符合规则的值
 
@@ -1567,7 +1567,7 @@ print(m.hexdigest())
 
 ### 匹配规则
 
-![image-20230819191430482](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819191430482.png)
+![image-20230819191430482](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819191430482.png)
 
 
 
@@ -1575,15 +1575,15 @@ match，如果开头没有就停止匹配
 
 search,只找一个
 
-![image-20230819190921223](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819190921223.png)
+![image-20230819190921223](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819190921223.png)
 
 
 
-![image-20230819190832076](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230819190832076.png)
+![image-20230819190832076](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230819190832076.png)
 
 
 
-![image-20230829172231371](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829172231371.png)
+![image-20230829172231371](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829172231371.png)
 
 ### 分析
 
@@ -1613,25 +1613,25 @@ search,只找一个
 
 #### sub
 
-![image-20230829175721513](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829175721513.png)
+![image-20230829175721513](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829175721513.png)
 
 ![image-20230829175731036](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829175731036.png)
 
 *同样可以嵌套匿名函数*
 
-![image-20230829175808149](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829175808149.png)
+![image-20230829175808149](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829175808149.png)
 
 *以及设置替换次数*
 
-![image-20230829175825005](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829175825005.png)
+![image-20230829175825005](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829175825005.png)
 
 #### split（注意是re的对象，不是函数）
 
-![image-20230829180408421](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829180408421.png)
+![image-20230829180408421](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829180408421.png)
 
 ### 子模式与Match对象
 
-![image-20230829180544774](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829180544774.png)
+![image-20230829180544774](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829180544774.png)
 
 - 子模式扩展语法：
   (?P<groupname>)：为子模式命名
@@ -1646,13 +1646,13 @@ search,只找一个
 
   ![image-20230829180810380](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829180810380.png)
 
-  ![image-20230829180949287](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230829180949287.png)
+  ![image-20230829180949287](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230829180949287.png)
 
 
 
 ## 序列解包
 
-![image-20230816170125801](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816170125801.png)
+![image-20230816170125801](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816170125801.png)
 
 序列解包可以直接交换变量的值，这个在c语言中想都不敢想
 
@@ -1672,7 +1672,7 @@ print(fibs)
 
 ### gcd(求最大公约数)
 
-![image-20230816204230760](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816204230760.png)
+![image-20230816204230760](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816204230760.png)
 
-![image-20230816204236062](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230816204236062.png)
+![image-20230816204236062](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230816204236062.png)
 

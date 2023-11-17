@@ -4,7 +4,7 @@
 
 ### 2.2
 
-![image-20231101184714663](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231101184714663.png)
+![image-20231101184714663](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231101184714663.png)
 
 public method should stay forever
 
@@ -18,7 +18,7 @@ static需要通过类名来访问，同样static和private无法访问外部类�
 
 
 
-![image-20231101202155524](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231101202155524.png)
+![image-20231101202155524](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231101202155524.png)
 
 **cache**合理使用！降低时间复杂度
 
@@ -103,11 +103,11 @@ public class SLList {
 
 #### Invariant(不变量)
 
-![image-20231101204554729](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231101204554729.png)
+![image-20231101204554729](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231101204554729.png)
 
 invariant advantages
 
-- ![image-20231101204650276](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231101204650276.png)
+- ![image-20231101204650276](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231101204650276.png)
 
 
 
@@ -115,37 +115,37 @@ invariant advantages
 
 Double link
 
-![image-20231102114039010](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102114039010.png)
+![image-20231102114039010](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102114039010.png)
 
 
 
 参数化
 
-![image-20231102115051781](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102115051781.png)
+![image-20231102115051781](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102115051781.png)
 
 不在拘束于同一个数据类型
 
-e.g.![image-20231102115128651](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102115128651.png)
+e.g.![image-20231102115128651](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102115128651.png)
 
-![image-20231102115420112](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102115420112.png)
+![image-20231102115420112](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102115420112.png)
 
 
 
 Arrays
 
-![image-20231102115905463](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102115905463.png)
+![image-20231102115905463](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102115905463.png)
 
 三种初始化
 
-![image-20231102120037517](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102120037517.png)
+![image-20231102120037517](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102120037517.png)
 
-![image-20231102120957744](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102120957744.png)
+![image-20231102120957744](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102120957744.png)
 
 **arraycopy**
 
 把数组b的从零开始的index复制到x的从3开始的Index复制两个
 
-![image-20231102121343416](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102121343416.png)
+![image-20231102121343416](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102121343416.png)
 
 **this function is faster than loop!!**
 
@@ -157,11 +157,11 @@ Arrays
 
 
 
-![image-20231102224908010](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102224908010.png)
+![image-20231102224908010](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102224908010.png)
 
 没有指定每个引用的存放大小，也可以指定
 
-![image-20231102222936075](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102222936075.png)
+![image-20231102222936075](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231102222936075.png)
 
 ![image-20231102223129753](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231102223129753.png)
 
@@ -234,15 +234,15 @@ assertThat(actualValue).isEqualTo(expectedValue);
 
 这些断言方法在编写自动化测试时非常有用，因为它们可以帮助你确保你的代码在修改后仍然按照预期工作。如果一个断言失败，那么测试框架会抛出一个错误，通常这会导致构建失败，在持续集成环境中这是非常有价值的反馈。
 
-![image-20231105210729320](D:\CsNote\image\image-20231105210729320.png)
+![image-20231105210729320](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231105210729320.png)
 
-![image-20231105210927166](D:\CsNote\image\image-20231105210927166.png)
+![image-20231105210927166](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231105210927166.png)
 
 
 
 ### TTD workflow
 
-![image-20231105220243565](D:\CsNote\image\image-20231105220243565.png)
+![image-20231105220243565](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231105220243565.png)
 
 ### Arrays
 
@@ -254,13 +254,13 @@ compare to list
 
 Naive AlistCode
 
-![image-20231110192058985](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110192058985.png)
+![image-20231110192058985](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110192058985.png)
 
 Array **resizing**: 当数组越界使用System.arraycope
 
-![image-20231110193856529](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110193856529.png)
+![image-20231110193856529](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110193856529.png)
 
-![](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110194032455.png)
+![](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110194032455.png)
 
 resize arraylist
 
@@ -268,13 +268,13 @@ however this method take O(N*N)time,**when items more time takes more**
 
 down picture is right method 
 
-![image-20231110195444360](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110195444360.png)
+![image-20231110195444360](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110195444360.png)
 
 
 
 An Alist should not only be efficient in time ,but also efficent in space,so initlalization use 100*4bytes is waste space
 
-![image-20231110195830083](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110195830083.png)
+![image-20231110195830083](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110195830083.png)
 
 size/items.length=R
 
@@ -288,9 +288,9 @@ R should < 0.25
 
 
 
-![image-20231110200328193](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110200328193.png)
+![image-20231110200328193](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110200328193.png)
 
-![image-20231110200408699](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110200408699.png)
+![image-20231110200408699](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231110200408699.png)
 
 ![image-20231110200517792](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20231110200517792.png)
 

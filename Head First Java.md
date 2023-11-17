@@ -97,13 +97,13 @@ get(int index)//返回当前索引的对象
 
 放置一个import再程序源文件最前面
 
-或者![image-20230623210906110](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623210906110.png)
+或者![image-20230623210906110](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623210906110.png)
 
-![image-20230623210915964](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623210915964.png)
+![image-20230623210915964](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623210915964.png)
 
-![image-20230623211016757](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623211016757.png)
+![image-20230623211016757](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623211016757.png)
 
-![image-20230623211020981](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623211020981.png)
+
 
 **除了lang包之外都需要指定全名**
 
@@ -111,15 +111,15 @@ get(int index)//返回当前索引的对象
 
 # 继承与多态
 
-![image-20230623211322717](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623211322717.png)
+![image-20230623211322717](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623211322717.png)
 
 子类继承要有***extends***这个关键词
 
 寻找两者之前的抽象关系is-a判断，什么什么是什么
 
-![image-20230623211617028](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623211617028.png)
+![image-20230623211617028](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623211617028.png)
 
-还需要注意super这个关键词![image-20230623211645171](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623211645171.png)
+还需要注意super这个关键词![image-20230623211645171](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623211645171.png)
 
 **继承让你可以确保某个父型之下的所有类都会有父型所持有的全部方法（可以继承的）**
 
@@ -127,7 +127,7 @@ get(int index)//返回当前索引的对象
 
 继承所有遵守的合约:覆盖的规则
 
-- 参数必须要一样，返回值必须要兼容![image-20230623211946244](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623211946244.png)
+- 参数必须要一样，返回值必须要兼容![image-20230623211946244](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623211946244.png)
 
   
 
@@ -149,25 +149,25 @@ get(int index)//返回当前索引的对象
 
 # 接口与抽象类
 
-![image-20230623212329676](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623212329676.png)
+![image-20230623212329676](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623212329676.png)
 
 ​									***抽象类的定义***
 
-![image-20230623212951996](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623212951996.png)
+![image-20230623212951996](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623212951996.png)
 
-![image-20230623213002506](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623213002506.png)
+![image-20230623213002506](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623213002506.png)
 
 super**调用父类方法示例**
 
-![image-20230623213033072](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623213033072.png)
+![image-20230623213033072](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623213033072.png)
 
-![image-20230623213041094](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623213041094.png)
+![image-20230623213041094](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623213041094.png)
 
 接口的产生用于新的类无法对其他的类通过is—a测试时就涉及不继承其他的类
 
 机器狗—狗-动物
 
-![image-20230623213204896](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230623213204896.png)
+![image-20230623213204896](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230623213204896.png)
 
 ## 构造器与垃圾收集器
 
@@ -177,7 +177,7 @@ super**调用父类方法示例**
 
 ### **final**关键字
 
-![image-20230712100234952](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712100234952.png)
+![image-20230712100234952](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712100234952.png)
 
 ​																	*感觉有点类似c的const*
 
@@ -185,11 +185,11 @@ super**调用父类方法示例**
 
 
 
-![image-20230712100541239](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712100541239.png)
+![image-20230712100541239](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712100541239.png)
 
 final不能被覆盖或者创建子类，也不能够继承
 
-![image-20230712101009490](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712101009490.png)
+![image-20230712101009490](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712101009490.png)
 
 ## Math的方法
 
@@ -223,7 +223,7 @@ double r1=Math.random();
 
 **Integer**
 
-![image-20230712102859717](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712102859717.png)
+![image-20230712102859717](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712102859717.png)
 
 其中boollean表达值用的是自己的方法
 
@@ -233,17 +233,17 @@ double r1=Math.random();
 
 
 
-![image-20230712103318703](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712103318703.png)
+![image-20230712103318703](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712103318703.png)
 
 其中"%,d"控制了数字以有逗号的形式表示
 
 **格式化的格式**
 
-![image-20230712103924791](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712103924791.png)
+![image-20230712103924791](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712103924791.png)
 
 **日期的格式化**
 
-![image-20230712104547445](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712104547445.png)
+![image-20230712104547445](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712104547445.png)
 
 最后的这个"<"挺有意思，代表重复使用today这个参数
 
@@ -255,17 +255,17 @@ Calendar是一个抽象类，他的下方继承了很多个子类，原因是考
 
 **涉及到了获得抽象类子类的实例**
 
-![image-20230712110732637](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712110732637.png)
+![image-20230712110732637](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712110732637.png)
 
-![image-20230712111118547](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712111118547.png)
+![image-20230712111118547](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712111118547.png)
 
-![image-20230712111145494](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230712111145494.png)精华部分
+![image-20230712111145494](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230712111145494.png)精华部分
 
 
 
 # 异常处理
 
-![image-20230717234130767](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230717234130767.png)
+![image-20230717234130767](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230717234130767.png)
 
 # 12.图形用户接口
 
@@ -289,19 +289,19 @@ public class demo1 {
 
 存在于javax.swing这个包中，包含了很多gui组件
 
-![image-20230718103144941](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230718103144941.png)
+![image-20230718103144941](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230718103144941.png)
 
 设置完按钮等组件，就要开始为按钮赋予功能
 
-![image-20230718103806084](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230718103806084.png)
+![image-20230718103806084](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230718103806084.png)
 
 捕捉用户click的这个动作，执行动作对应的方法
 
 **内部类**
 
-![image-20230718110312008](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230718110312008.png)
+![image-20230718110312008](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230718110312008.png)
 
-![image-20230718110340498](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230718110340498.png)
+![image-20230718110340498](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230718110340498.png)
 
 *内部类可以使用外部类的方法与变量，就算是私有的也一样*，这里的外部类是对于内部类所属的外部类![image-20230718110651185](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230718110651185.png)
 

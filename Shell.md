@@ -150,7 +150,7 @@ echo $myUrl
 
 字符串可以用单引号，也可以用双引号，也可以不用引号。
 
-![image-20231107184206098](D:\CsNote\image\image-20231107184206098.png)
+![image-20231107184206098](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231107184206098.png)
 
 各种引号的解释
 
@@ -432,7 +432,9 @@ COMMENT
 
 # Shell的参数传递
 
-脚本内获取参数的格式为：**$n**。**n** 代表一个数字
+![image-20231111131712870](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231111131712870.png)
+
+脚本内获取参数的格式为：**$n**。**n** 代表一个数字，$0代表的是脚本路径
 
 实例
 
