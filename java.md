@@ -125,6 +125,8 @@ System.out.println("money");
 
 ![image-20230513203727423](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230513203727423.png)
 
+![image-20231126142412523](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231126142412523.png)
+
 ### 6.数据类型
 
 ![image-20230513204057800](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230513204057800.png)
@@ -912,6 +914,10 @@ public class TestArray {
 ![image-20230516152138585](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230516152138585.png)
 
 可以用于结束方法，上面的样例代码中分母的传入值如果等于零，就用return结束当前方法
+
+### 方法的补充
+
+
 
 ## 6.面向对象
 
