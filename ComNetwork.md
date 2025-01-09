@@ -77,3 +77,107 @@ ip与port的捆绑
 ![image-20231120211852159](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231120211852159.png)
 
 ![image-20231120212417529](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231120212417529.png)
+
+### 看书总结
+
+
+
+# 传输层
+
+
+
+![image-20231204112438526](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231204112438526.png)
+
+多路复用
+
+![image-20231204112559946](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231204112559946.png)
+
+通过源端ip目标ip
+
+***源端口，目标端口进行解复用，多路复用*** ----------存放在TCP或者UDP的表头当中 ，复用的过程主要是把协议的数据部分交给服务器或者应用进程
+
+![image-20231204115315352](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231204115315352.png)
+
+UDP中之和本地的id和端口进行捆绑，和远端没关系
+
+# 网络层
+
+## 4.1导论
+
+![image-20240402104823440](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402104823440.png)
+
+​	转发和路由 网络层的主要功能
+
+过程
+
+![image-20240402104950250](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402104950250.png)
+
+每一跳都要进行解封装，寻找下一个路由地址（选择路径），封装解封装
+
+路由是控制层面，转发是数据平面的功能
+
+![image-20240402105400236](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402105400236.png)
+
+![image-20240402105410655](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402105410655.png)
+
+传统方式的转发，耦合度高，可维护性低，且为分布式处理
+
+![ ](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402110310715.png)
+
+网络层的链接与传输层的链接不相同，传输层是对端到端的链接，通过网络层为媒体的这种叫做面向连接，相当于tcp的就是面向连接，而网络层的连接就是实打实的连接，路由器的算法实现了控制平面的功能
+
+![image-20240402111056222](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402111056222.png)
+
+网络提供的服务指标（服务模型）
+
+![image-20240402111110538](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402111110538.png)
+
+## 4.2路由器的组成
+
+![image-20240402111446086](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402111446086.png)
+
+fabric通过输入端空与输出端口进行转发，
+
+输入端口的功能，转换信号，封装解封装![image-20240402112320256](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402112320256.png)
+
+![image-20240402112058852](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402112058852.png)
+
+路由的输入端口前也有queue的缓存（输出的端口也有）
+
+fabric的交换机构
+
+![image-20240402112500275](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402112500275.png)
+
+bus是计算机总线，将数据封装成帧通过总线来控制输出的网卡
+
+通过内存需要通过两次 system bus，时间较慢![image-20240402112621982](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402112621982.png)
+
+通过总线交换，只需要通过一次bus
+
+![image-20240402112733410](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402112733410.png)
+
+![image-20240402112902727](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402112902727.png)
+
+封装成帧之后，分组并不是先到先出，而是还会经过一些选择算法，选出可以优先打出的分组，通过cpu来调度优先进程，不是简单的输出队列
+
+![image-20240402113355329](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402113355329.png)
+
+输出端口的排队
+
+![image-20240402113419680](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402113419680.png)
+
+ 输出的调度机制
+
+- 先来先服务
+
+- 通过优先权来调度
+
+- 
+
+  
+
+  ![image-20240402113738828](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402113738828.png)
+
+  
+
+![image-20240402113458324](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20240402113458324.png)
