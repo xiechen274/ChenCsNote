@@ -1,5 +1,56 @@
 # 运行 Shell 的方法
 
+## macos上的zsh
+
+在 macOS 上，您可以通过几种方式指定要使用的 shell：
+
+### 1. 更改默认 Shell
+要更改您的默认登录 shell：
+
+- 打开 Terminal。
+- 输入 `chsh -s /bin/zsh` 或 `chsh -s /bin/bash` 来更改默认 shell 为 `zsh` 或 `bash`。
+- 您可能需要输入您的密码来确认更改。
+- 完成后，您需要注销并重新登录，或者重新打开 Terminal 窗口以使更改生效。
+
+### 2. 临时切换 Shell
+如果您只是想临时切换到另一个 shell，不更改默认设置：
+
+- 打开 Terminal。
+- 输入 `zsh` 或 `bash` 来启动相应的 shell。
+- 这样做会在当前会话中切换 shell，但不会更改默认 shell。
+
+### 3. 指定脚本解释器
+在脚本的第一行，您可以通过 shebang（`#!`）指定解释器：
+
+- 对于 `bash`：
+  ```bash
+  #!/bin/bash
+  # Your script contents
+  ```
+- 对于 `zsh`：
+  ```zsh
+  #!/bin/zsh
+  # Your script contents
+  ```
+
+将此行添加到脚本文件的顶部，确保脚本具有执行权限，然后您可以直接运行它，它将使用指定的 shell 执行。
+
+### 4. 通过脚本运行指定 Shell
+您还可以在任何 shell 中调用另一个 shell 来执行特定的脚本：
+
+- 使用 `bash` 运行脚本：
+  ```bash
+  bash script.sh
+  ```
+- 使用 `zsh` 运行脚本：
+  ```zsh
+  zsh script.sh
+  ```
+
+确保脚本文件 `script.sh` 具有适当的执行权限（通过运行 `chmod +x script.sh` 来设置）。
+
+选择使用哪个 shell 取决于您的个人喜好以及您在脚本或终端会话中需要使用的特定功能。
+
 **1、作为可执行程序**
 
 将上面的代码保存为 test.sh，并 cd 到相应目录：
