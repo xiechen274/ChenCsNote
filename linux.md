@@ -228,6 +228,10 @@ vim命令模式下的快捷键
 
 ### 认识root用户
 
+![ ](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208200506136.png)
+
+![image-20231208200417026](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208200417026.png)
+
 
 
 ![image-20230721203253248](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20230721203253248.png)
@@ -299,11 +303,29 @@ groupdel
 
 ![image-20230721212820227](C:\Users\谢隆杰\AppData\Roaming\Typora\typora-user-images\image-20230721212820227.png)
 
+### alias history
+
+![image-20231208200205422](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208200205422.png)
+
+## 磁盘
+
+![image-20231208195800748](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208195800748.png)
+
+## 系统管理，进程
+
+![image-20231208200634646](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208200634646.png)
+
+![image-20231208200559335](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208200559335.png)
+
+关机或者重启
+
+![ ](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208195655232.png)
 
 
 
+## 软件安装
 
-
+![image-20231208201041345](https://raw.githubusercontent.com/xiechen274/ChenCsNote/images/images/image-20231208201041345.png)
 
 
 
